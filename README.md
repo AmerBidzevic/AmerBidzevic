@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ### Hey, I’m Amer 👋  <br><br>Right now I’m busy with university projects and a few side apps that help me sharpen my skills in **Java, Kotlin, and Web Development**.  <br><br>This semester I’m diving deeper into:  <br>- **Database Systems** (working with SQL and exploring different types of databases)  <br>- **Software Verification, Validation & Testing** (learning how QA and testing actually keep code reliable)  <br>- **Software Project Management** (understanding how to run projects smoothly, not just code them)  <br>- **Programming Languages** (learning about how different languages are built and used)  <br>- Plus my **Industrial Training**, where I’ll get some real-world IT experience.  <br><br>👯 I’d love to collaborate on projects where I can combine what I’m learning with teamwork—whether it’s building apps, working with databases, or focusing on UI/UX.  <br>
 
 
